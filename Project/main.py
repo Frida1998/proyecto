@@ -19,8 +19,9 @@ from nltk.probability import FreqDist
 # Definimos un texto en español que queramos analizar
 
 texto = """
-soy Alba Suaréz, soy de Barranquilla, Colombia.Me gusta bailar, ir al gym y interactuar con la gente.soy instructora Sena y en otras
-Mi compañera Lorena Reyes es maestra de atención a la primera infancia.le gustan los gatos y los perros.y la cerveza
+soy Alba Suaréz, soy de Barranquilla, Colombia.Me gusta bailar, ir al gym y interactuar con la gente.soy instructora Sena y en otras oportunidades soy maestra de educación física.
+Mi compañera Elizabeth Arias es maestra de atención a la primera infancia.le gustan los gatos y los perros.y la cerveza.
+mi compañero Diego, Ing. de sistemas me gustan los deportes y el ejercicio en general. Vivo en Bogota con mi familia. Me encanta el ajedrez.
 
 """
 
